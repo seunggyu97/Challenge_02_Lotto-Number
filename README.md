@@ -13,17 +13,17 @@ Shape Drawable을 사용하여 1부터 10까지는 노란색, 11부터 20까지�
 
 ## 학습 내용
 * Layout
-** ConstraintLayout
-** NumberPicker
-** TextView(복습)
-** Button(복습)
+  * ConstraintLayout
+  * NumberPicker
+  * TextView(복습)
+  * Button(복습)
 * 중복 코드 정리
 * Shape Drawable 사용
 
 * Kotlin 문법
-** apply
-** when
-** random
-** Collection
-*** Set, List
-** 람다 함수
+  * apply
+  * when
+  * random
+  * Collection
+    * Set, List
+  * 람다 함수
